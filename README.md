@@ -1,6 +1,6 @@
 # Bamazon
 
-##Description
+## Description
 
 Bamazon implements a simple command line based storefront using the MySQL and Inquirer npm packages.
 
