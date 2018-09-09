@@ -4,14 +4,14 @@ var mysql = require("mysql");
 //Mysql connection parameters
 var connection = mysql.createConnection({
 	host: "localhost",
-	port: 3306,
+	port: ,
 
 	//Username
 
 	user: "root",
 
 	//Password
-	password: "columbia",
+	password: "",
 	database: "bamazon"
 });
 
